@@ -4,6 +4,7 @@
 - One Hit KO (OHKO) Moves
 
 ### Changed
+- Changed stats in pokemonStats.txt
 - Changed movesets of pokemon that can learn OHKO moves
 - Changed Nidoran (Male)'s name to "Nidoran-M"
 - Changed Nidoran (Female)'s name to "Nidoran-F"
