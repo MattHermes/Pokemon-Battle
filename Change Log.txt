@@ -1,0 +1,47 @@
+##Version 1.101
+
+### Fixed
+- Incorrectly displayed "Grass" type pokemon as "Electric"
+   and vice versa
+- Appropriate messages now display when a pokemon tries
+  to inflict the opponent with the same status effect
+- moveList.txt: Fixed effect description for "Swords Dance"  
+- typeChart.txt: Added multiplers for the "Dragon" type
+
+##Version 1.100
+
+### Added
+- Copying moves
+- Healing moves
+- Moves with recoil
+- Sacrificing moves
+
+### Changed
+- Lower case letters work with menus
+- Made Ditto available
+- Player is now asked if they want to play again
+
+### Fixed
+- pokemonGeneralinfo.txt: Changed pokemon #125's name to "Electabuzz"
+- pokemonMovesets.txt: Changed pokemon #125's name to "Electabuzz"
+- pokemonStats.txt: Changed pokemon #125's name to "Electabuzz"
+
+##Version 1.010
+
+### Added
+- One Hit KO (OHKO) Moves
+
+### Changed
+- Changed stats in pokemonStats.txt 
+- Changed movesets of pokemon that can learn OHKO moves
+- Changed Nidoran (Male)'s name to "Nidoran-M"
+- Changed Nidoran (Female)'s name to "Nidoran-F"
+
+### Fixed
+- Fixed logic error when both players use the same name
+- pokemonGeneralinfo.txt: Changed pokemon #112's name to "Rhydon"
+- pokemonMovesets.txt: Changed pokemon #112's name to "Rhydon"
+- pokemonStats.txt: Changed pokemon #112's name to "Rhydon"
+
+##Version 1.000
+--Uploaded game
