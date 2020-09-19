@@ -1,0 +1,365 @@
+Pound, Normal, Physical, 40, 56, 100, 0, 6.25, None
+Karate Chop, Fighting, Physical, 50, 40, 100, 0, 12.5, None
+Mega Punch, Normal, Physical, 80, 32, 85, 0, 6.25, None
+Pay Day, Normal, Physical, 40, 32, 100, 0, 6.25, None
+Fire Punch, Fire, Physical, 75, 24, 100, 0, 6.25, "10% Chance To Burn Opponent"
+Ice Punch, Ice, Physical, 75, 24, 100, 0, 6.25, "10% Chance To Freeze Opponent"
+Thunder Punch, Electric, Physical, 75, 24, 100, 0, 6.25, "10% Chance To Paralysis Opponent"
+Scratch, Normal, Physical, 40, 56, 100, 0, 6.25, None
+Vice Grip, Normal, Physical, 55, 48, 100, 0, 6.25, None
+Guillotine, Normal, Physical, 0, 8, 30, 0, 0, "OHKO"
+Swords Dance, Normal, Status, 0, 32, 999, 0, 0, "100% Chance To Buff Atk 2 Stages Self"
+Cut, Normal, Physical, 50, 48, 95, 0, 6.25, None
+Gust, Flying, Special, 40, 56, 100, 0, 6.25, None
+Wing Attack, Flying, Physical, 60, 56, 100, 0, 6.25, None
+Whirlwind, Flying, Status, 0, 32, 999, -6, 0, "Swap Opponent"
+Slam, Normal, Physical, 80, 32, 100, 0, 6.25, None
+Vine Whip, Grass, Physical, 45, 40, 100, 0, 6.25, None
+Stomp, Normal, Physical, 65, 32, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Mega Kick, Normal, Physical, 120, 8, 75, 0, 6.25, None
+Rolling Kick, Fighting, Physical, 60, 24, 85, 0, 6.25, "30% Chance To Flinch Opponent"
+Sand Attack, Ground, Status, 0, 24, 100, 0, 0, "100% Chance To Debuff Accuracy 1 Stage Opponent"
+Headbutt, Normal, Physical, 70, 24, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Horn Attack, Normal, Physical, 65, 40, 100, 0, 6.25, None
+Horn Drill, Normal, Physical, 0, 8, 30, 0, 0, "OHKO Opponent"
+Tackle, Normal, Physical, 40, 56, 100, 0, 6.25, None
+Body Slam, Normal, Physical, 85, 24, 100, 0, 6.25, "30% Chance To Paralysis Opponent"
+Take Down, Normal, Physical, 90, 32, 85, 0, 6.25, "Recoil 25% Damage Self"
+Double-Edge, Normal, Physical, 120, 24, 100, 0, 6.25, "Recoil 50% Damage Self"
+Tail Whip, Normal, Status, 0, 48, 100, 0, 0, "100% Chance To Debuff Def 1 Stage Opponent"
+Poison Sting, Poison, Physical, 15, 56, 100, 0, 6.25, "30% Chance To Poison Opponent"
+Leer, Normal, Status, 0, 48, 100, 0, 0, "100% Chance To Debuff Def 1 Stage Opponent"
+Bite, Dark, Physical, 60, 40, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Growl, Normal, Status, 0, 64, 100, 0, 0, "100% Chance To Debuff Atk 1 Stage Opponent"
+Roar, Normal, Status, 0, 32, 999, -6, 0, "Swap Opponent" 
+Sing, Normal, Status, 0, 24, 55, 0, 0, "100% Chance To Sleep Opponent"
+Supersonic, Normal, Status, 0, 32, 55, 0, 0, "100% Chance To Confusion Opponent"
+Acid, Poison, Special, 40, 48, 100, 0, 6.25, "10% Chance To Debuff SpDef 1 Stage Opponent"
+Ember, Fire, Special, 40, 40, 100, 0, 6.25, "10% Chance To Burn Opponent"
+Flamethrower, Fire, Special, 90, 24, 100, 0, 6.25, "10% Chance To Burn Opponent"
+Water Gun, Water, Special, 40, 40, 100, 0, 6.25, None
+Hydro Pump, Water, Special, 110, 8, 80, 0, 6.25, None
+Surf, Water, Special, 90, 24, 100, 0, 6.25, None
+Ice Beam, Ice, Special, 90, 16, 100, 0, 6.25, "10% Chance To Freeze Opponent"
+Blizzard, Ice, Special, 110, 8, 70, 0, 6.25, "10% Chance To Freeze Opponent"
+Psybeam, Psychic, Special, 65, 32, 100, 0, 6.25, "10% Chance To Confusion Opponent"
+Bubble Beam, Water, Special, 65, 32, 100, 0, 6.25, "10% Chance To Debuff Speed 1 Stage Opponent"
+Aurora Beam, Ice, Special, 65, 32, 100, 0, 6.25, "10% Debuff Atk 1 Stage Opponent"
+Peck, Flying, Physical, 35, 56, 100, 0, 6.25, None
+Drill Peck, Flying, Physical, 80, 32, 100, 0, 6.25, None
+Submission, Fighting, Physical, 80, 32, 80, 0, 6.25, "Recoil 25% Damage Self"
+Counter, Fighting, Physical, 0, 32, 100, -5, 0, "Counters Physical Damage Opponent"
+Strength, Normal, Physical, 80, 24, 100, 0, 6.25, None
+Absorb, Grass, Special, 40, 24, 100, 0, 6.25, "Heal 50% Damage Self"
+Mega Drain, Grass, Special, 75, 16, 100, 0, 6.25, "Heal 50% Damage Self"
+Growth, Normal, Status, 0, 32, 100, 0, 0, "100% Chance To Buff SpAtk 1 Stage Self"
+Razor Leaf, Grass, Physical, 55, 40, 95, 0, 12.5, None
+Poison Powder, Poison, Status, 0, 56, 75, 0, 0, "100% Chance To Poison Opponent"
+Stun Spore, Grass, Status, 0, 48, 75, 0, 0, "100% Chance To Paralysis Opponent"
+Sleep Powder, Grass, Status, 0, 24, 75, 0, 0, "100% Chance To Sleep Opponent"
+String Shot, Bug, Status, 0, 64, 95, 0, 0, "100% Chance To Debuff Speed 2 Stages Opponent"
+Thunder Shock, Electric, Special, 40, 48, 100, 0, 6.25, "10% Chance To Paralysis Opponent"
+Thunderbolt, Electric, Special, 90, 24, 100, 0, 6.25, "10% Chance To Paralysis Opponent"
+Thunder Wave, Electric, Status, 0, 32, 90, 0, 0, "100% Chance To Paralysis Opponent"
+Thunder, Electric, Special, 110, 16, 70, 0, 6.25, "30% Chance To Paralysis Opponent"
+Rock Throw, Rock, Physical, 50, 24, 90, 0, 6.25, None
+Earthquake, Ground, Physical, 100, 16, 100, 0, 6.25, None
+Fissure, Ground, Physical, 0, 8, 30, 0, 0, "OHKO Opponent"
+Toxic, Poison, Status, 0, 16, 90, 0, 0, "100% Chance To Badly_Poison Opponent"
+Confusion, Psychic, Special, 50, 40, 100, 0, 6.25, "10% Chance To Confusion Opponent"
+Psychic, Psychic, Special, 90, 16, 100, 0, 6.25, "10% Chance To Debuff SpDef 1 Stage Opponent"
+Hypnosis, Psychic, Status, 0, 32, 60, 0, 0, "100% Chance To Sleep Opponent"
+Meditate, Psychic, Status, 0, 64, 999, 0, 0, "100% Chance To Buff Atk 1 Stage Self"
+Agility, Psychic, Status, 0, 48, 999, 0, 0, "100% Chance To Buff Speed 2 Stages Self"
+Quick Attack, Normal, Physical, 40, 48, 100, 1, 6.25, None
+Screech, Normal, Status, 0, 64, 85, 0, 0, "100% Chance To Debuff Def 2 Stages Opponent"
+Double Team, Normal, Status, 0, 24, 999, 0, 0, "100% Chance To Buff Evasion 1 Stage Self"
+Recover, Normal, Status, 0, 16, 999, 0, 0, "Heal 50% Health Self"
+Harden, Normal, Status, 0, 48, 999, 0, 0, "100% Chance To Buff Def 1 Stage Self"
+Minimize, Normal, Status, 0, 16, 999, 0, 0, "100% Chance To Buff Evasion 2 Stages Self"
+Smokescreen, Normal, Status, 0, 32, 100, 0, 0, "100% Chance To Debuff Accuracy 1 Stage Opponent"
+Confuse Ray, Ghost, Status, 0, 16, 100, 0, 0, "100% Chance To Confusion Opponent"
+Withdraw, Water, Status, 0, 64, 999, 0, 0, "100% Chance To Buff Def 1 Stage Self"
+Defense Curl, Normal, Status, 0, 64, 999, 0, 0, "100% Chance To Buff Def 1 Stage Self"
+Self-Destruct, Normal, Physical, 200, 8, 100, 0, 6.25, "Sacrifice Self"
+Egg Bomb, Normal, Physical, 100, 16, 75, 0, 6.25, None
+Lick, Ghost, Physical, 30, 48, 100, 0, 6.25, "30% Chance To Paralysis Opponent"
+Smog, Poison, Special, 30, 32, 70, 0, 6.25, "40% Chance To Poison Opponent"
+Sludge, Poison, Special, 65, 32, 100, 0, 6.25, "30% Chance To Poison Opponent"
+Fire Blast, Fire, Special, 110, 8, 85, 0, 6.25, "10% Chance To Burn Opponent"
+Waterfall, Water, Physical, 80, 24, 100, 0, 6.25, "20% Chance To Flinch Opponent"
+Constrict, Normal, Physical, 10, 56, 100, 0, 6.25, "10% Chance To Debuff Speed 1 Stage Opponent"
+Amnesia, Psychic, Status, 0, 32, 999, 0, 0, "100% Chance To Buff SpDef 2 Stages Self"
+Kinesis, Psychic, Status, 0, 24, 80, 0, 0, "100% Chance To Debuff Accuracy 1 Stage Opponent"
+Soft-Boiled, Normal, Status, 0, 16, 999, 0, 0, "Heal 50% Health Self"
+Glare, Normal, Status, 0, 48, 100, 0, 0, "100% Chance To Paralysis Opponent"
+Poison Gas, Poison, Status, 0, 64, 90, 0, 0, "100% Chance To Poison Opponent"
+Lovely Kiss, Normal, Status, 0, 16, 75, 0, 0, "100% Chance To Confusion Opponent"
+Leech Life, Bug, Physical, 80, 16, 100, 0, 6.25, "Heal 50% Damage Self"
+Transform, Normal, Status, 0, 16, 999, 0, 0, "Copy Pokemon Self"
+Bubble, Water, Special, 40, 48, 100, 0, 6.25, "10% Chance To Debuff Speed 1 Stage Opponent"
+Dizzy Punch, Normal, Physical, 70, 16, 100, 0, 6.25, "20% Chance To Confusion Opponent"
+Flash, Normal, Status, 0, 32, 100, 0, 0, "100% Chance To Debuff Accuracy 1 Stage Opponent"
+Spore, Grass, Status, 0, 24, 100, 0, 0, "100% Chance To Sleep Opponent"
+Splash, Normal, Status, 0, 64, 999, 0, 0, "No Battle Effect None"
+Acid Armor, Poison, Status, 0, 32, 999, 0, 0, "100% Chance To Buff Def 2 Stages Self"
+Crabhammer, Water, Physical, 100, 16, 90, 0, 12.5, None
+Explosion, Normal, Physical, 250, 8, 100, 0, 6.25, "Sacrifice Self"
+Rock Slide, Rock, Physical, 75, 16, 90, 0, 6.25, "30% Chance To Flinch Opponent"
+Hyper Fang, Normal, Physical, 80, 24, 90, 0, 6.25, "10% Chance To Flinch Opponent"
+Sharpen, Normal, Status, 0, 48, 999, 0, 0, "100% Buff Atk 1 Stage Self"
+Tri Attack, Normal, Special, 80, 16, 100, 0, 6.25, "6.67% Chance To Paralysis Opponent :: 6.67% Chance To Freeze Opponent :: 6.67% Chance To Burn Opponent"
+Slash, Normal, Physical, 70, 32, 100, 0, 12.5, None
+Flame Wheel, Fire, Physical, 60, 40, 100, 0, 6.25, "10% Chance To Burn Opponent"
+Aeroblast, Flying, Special, 100, 8, 95, 0, 12.5, None
+Cotton Spore, Grass, Status, 0, 64, 100, 0, 0, "100% Chance To Debuff Speed 2 Stages Opponent"
+Powder Snow, Ice, Special, 40, 40, 100, 0, 6.25, "10% Chance To Freeze Opponent"
+Mach Punch, Fighting, Physical, 40, 48, 100, 1, 6.25, None
+Scary Face, Normal, Status, 0, 16, 100, 0, 0, "100% Chance To Debuff Speed 2 Stages Opponent"
+Feint Attack, Dark, Physical, 60, 32, 999, 0, 6.25, None
+Sweet Kiss, Fairy, Status, 0, 16, 75, 0, 0, "100% Chance To Confusion Opponent"
+Sludge Bomb, Poison, Special, 90, 16, 100, 0, 6.25, "30% Chance To Poison Opponent"
+Mud-Slap, Ground, Special, 20, 16, 100, 0, 6.25, "100% Chance To Debuff Accuracy 1 Stage Opponent"
+Octazooka, Water, Special, 65, 16, 85, 0, 6.25, "50% Chance To Debuff Accuracy 1 Stage Opponent"
+Zap Cannon, Electric, Special, 120, 8, 50, 0, 6.25, "100% Chance To Paralysis Opponent"
+Icy Wind, Ice, Special, 55, 24, 95, 0, 6.25, "100% Chance To Debuff Speed 1 Stage Opponent"
+Giga Drain, Grass, Special, 75, 16, 100, 0, 6.25, "Heal 50% Damage Opponent"
+Charm, Fairy, Status, 0, 32, 100, 0, 0, "100% Chance To Debuff Atk 2 Stages Opponent"
+Swagger, Normal, Status, 0, 24, 85, 0, 0, "100% Chance To Buff Atk 2 Stages Opponent :: 100% Chance To Confusion Opponent"
+Milk Drink, Normal, Status, 0, 16, 999, 0, 0, "Heal 50% Health Self"
+Spark, Electric, Physical, 65, 32, 100, 0, 6.25, "30% Chance To Paralysis Opponent"
+Steel Wing, Steel, Physical, 70, 40, 90, 0, 6.25, "10% Chance To Buff Def 1 Stage Self"
+Attract, Normal, Status, 0, 24, 100, 0, 0, "100% Chance To Attraction Opponent"
+Sacred Fire, Fire, Physical, 100, 8, 95, 0, 6.25, "50% Chance To Burn Opponent"
+Dynamic Punch, Fighting, Physical, 100, 8, 50, 0, 6.25, "100% Chance To Confusion Opponent"
+Megahorn, Bug, Physical, 120, 16, 85, 0, 6.25, None
+Dragon Breath, Dragon, Special, 60, 32, 100, 0, 6.25, "30% Chance To Paralysis Opponent"
+Sweet Scent, Normal, Status, 0, 32, 100, 0, 0, "100% Chance To Debuff Evasion 1 Stage Opponent"
+Iron Tail, Steel, Physical, 100, 24, 75, 0, 6.25, "30% Chance To Debuff Def 1 Stage Opponent"
+Metal Claw, Steel, Physical, 50, 56, 95, 0, 6.25, "10% Chance To Buff Atk 1 Stage Self"
+Vital Throw, Fighting, Physical, 70, 16, 999, -1, 6.25, None
+Morning Sun, Normal, Status, 0, 8, 999, 0, 0, "Heal 50% Health Self"
+Synthesis, Grass, Status, 0, 8, 999, 0, 0, "Heal 50% Health Self"
+Moonlight, Fairy, Status, 0, 8, 999, 0, 0, "Heal 50% Health Self"
+Hidden Power (Fire), Fire, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Water), Water, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Electric), Electric, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Grass), Grass, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Ice), Ice, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Fighting), Fighting, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Poison), Poison, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Ground), Ground, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Flying), Flying, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Psychic), Psychic, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Bug), Bug, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Rock), Rock, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Ghost), Ghost, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Dragon), Dragon, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Dark), Dark, Special, 60, 24, 100, 0, 6.25, None
+Hidden Power (Steel), Steel, Special, 60, 24, 100, 0, 6.25, None
+Cross Chop, Fighting, Physical, 100, 8, 80, 0, 12.5, None
+Twister, Dragon, Special, 40, 32, 100, 0, 6.25, "20% Chance To Flinch Opponent"
+Crunch, Dark, Physical, 80, 24, 100, 0, 6.25, "20% Chance To Debuff Def 1 Stage Opponent"
+Mirror Coat, Psychic, Special, 0, 32, 100, -5, 0, "Counters Special Damage Opponent"
+Psych Up, Normal, Status, 0, 16, 999, 0, 6.25, "Copy Stat_Changes Self"
+Extreme Speed, Normal, Physical, 80, 8, 100, 2, 6.25, None
+Ancient Power, Rock, Special, 60, 8, 100, 0, 6.25, "10% Chance Buff Atk 1 Stage; Buff Def 1 Stage; Buff SpAtk 1 Stage; Buff SpDef 1 Stage; Buff Speed 1 Stage Self"
+Shadow Ball, Ghost, Special, 80, 24, 100, 0, 6.25, "20% Chance To Debuff SpDef 1 Stage Opponent"
+Rock Smash, Fighting, Physical, 40, 24, 100, 0, 6.25, "50% Chance To Debuff Def 1 Stage Opponent"
+Heat Wave, Fire, Special, 95, 16, 90, 0, 6.25, "10% Chance To Burn Opponent"
+Memento, Dark, Status, 0, 16, 100, 0, 0, "Sacrifice Self :: 100% Chance To Debuff Atk 2 Stages; Debuff SpAtk 2 Stages Opponent"
+Will-O-Wisp, Fire, Status, 0, 24, 85, 0, 0, "100% Chance To Burn Opponent"
+Superpower, Fighting, Physical, 120, 8, 100, 0, 6.25, "100% Chance To Debuff Atk 1 Stage; Debuff Def 1 Stage Self"
+Brick Break, Fighting, Physical, 75, 24, 100, 0, 6.25, None
+Tail Glow, Bug, Status, 0, 32, 999, 0, 0, "100% Chance To Buff SpAtk 3 Stages Self"
+Luster Purge, Psychic, Special, 70, 8, 100, 0, 6.25, "50% Chance To Debuff SpDef 1 Stage Opponent"
+Mist Ball, Psychic, Special, 70, 8, 100, 0, 6.25, "50% Chance To Debuff SpAtk 1 Stage Opponent"
+Feather Dance, Flying, Status, 0, 24, 100, 0, 0, "100% Chance To Debuff Atk 2 Stages Opponent"
+Teeter Dance, Normal, Status, 0, 32, 100, 0, 0, "100% Chance To Confusion Opponent"
+Blaze Kick, Fire, Physical, 85, 16, 100, 0, 12.5, "10% Chance To Burn Opponent"
+Needle Arm, Grass, Physical, 60, 24, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Slack Off, Normal, Status, 0, 16, 100, 0, 0, "Heal 50% Health Self"
+Hyper Voice, Normal, Special, 90, 16, 100, 0, 6.25, None
+Poison Fang, Poison, Physical, 50, 24, 100, 0, 6.25, "50% Chance To Badly_Poison Opponent"
+Crush Claw, Normal, Physical, 75, 16, 95, 0, 6.25, "50% Chance To Debuff Def 1 Stage Opponent"
+Meteor Mash, Steel, Physical, 90, 16, 90, 0, 6.25, "20% Chance To Buff Atk 1 Stage Self"
+Astonish, Ghost, Physical, 30, 24, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Fake Tears, Dark, Status, 0, 32, 100, 0, 0, "100% Chance To Debuff SpDef 2 Stages Opponent"
+Air Cutter, Flying, Special, 60, 40, 95, 0, 12.5, None
+Overheat, Fire, Special, 130, 8, 90, 0, 6.25, "100% Chance To Debuff SpAtk 2 Stages Self"
+Rock Tomb, Rock, Physical, 60, 24, 95, 0, 6.25, "100% Chance To Debuff Speed 1 Stage Opponent"
+Silver Wind, Bug, Special, 60, 8, 100, 0, 6.25, "10% Chance To Buff Atk 1 Stage; Buff Def 1 Stage; Buff SpAtk 1 Stage; Buff SpDef 1 Stage; Buff Speed 1 Stage Self"
+Metal Sound, Steel, Status, 0, 64, 85, 0, 0, "100% Chance To Debuff SpDef 2 Stages Opponent"
+Grass Whistle, Grass, Status, 0, 24, 55, 0, 0, "100% Chance To Sleep Opponent"
+Tickle, Normal, Status, 0, 32, 100, 0, 0, "100% Chance To Debuff Atk 1 Stage; Debuff Def 1 Stage Opponent"
+Cosmic Power, Psychic, Status, 0, 32, 999, 0, 0, "100% Chance To Buff Def 1 Stage; Buff SpDef 1 Stage Self"
+Signal Beam, Bug, Special, 75, 24, 100, 0, 6.25, "10% Chance To Confusion Opponent"
+Shadow Punch, Ghost, Physical, 60, 32, 999, 0, 6.25, None
+Aerial Ace, Flying, Physical, 60, 32, 999, 0, 6.25, None
+Extrasensory, Psychic, Special, 80, 32, 100, 0, 6.25, "10% Chance To Flinch Opponent"
+Sky Uppercut, Fighting, Physical, 85, 24, 90, 0, 6.25, None
+Sheer Cold, Ice, Physical, 0, 8, 30, 0, 0, "OHKO Opponent"
+Muddy Water, Water, Special, 90, 16, 85, 0, 6.25, "30% Chance To Debuff Accuracy 1 Stage Opponent"
+Iron Defense, Steel, Status, 0, 24, 999, 0, 0, "100% Chance To Buff Def 2 Stages Self"
+Howl, Normal, Status, 0, 64, 999, 0, 0, "100% Chance To Buff Atk 1 Stage Self"
+Dragon Claw, Dragon, Physical, 80, 24, 100, 0, 6.25, None
+Bulk Up, Fighting, Status, 0, 32, 999, 0, 0, "100% Chance To Buff Atk 1 Stage; Buff Def 1 Stage Chance Self"
+Mud Shot, Ground, Special, 55, 24, 95, 0, 6.25, "100% Debuff Speed 1 Stage Opponent"
+Poison Tail, Poison, Physical, 50, 40, 100, 0, 12.5, "10% Chance To Poison Opponent"
+Volt Tackle, Electric, Physical, 120, 24, 100, 0, 6.25, "10% Chance To Paralysis Opponent :: Recoil 33.33% Damage Self"
+Magical Leaf, Grass, Special, 60, 32, 999, 0, 6.25, None
+Calm Mind, Psychic, Special, 0, 32, 999, 0, 0, "100% Chance To Buff SpAtk 1 Stage; Buff SpDef 1 Stage Self"
+Leaf Blade, Grass, Physical, 90, 24, 100, 0, 12.5, None
+Dragon Dance, Dragon, Status, 0, 32, 999, 0, 0, "100% Chance To Buff Atk 1 Stage; Buff Speed 1 Stage Self"
+Shock Wave, Electric, Special, 60, 32, 999, 0, 6.25, None
+Water Pulse, Water, Special, 60, 32, 100, 0, 6.25, "20% Chance To Confusion Opponent"
+Psycho Boost, Psychic, Special, 140, 8, 90, 0, 6.25, "100% Debuff SpAtk 2 Stages Self"
+Hammer Arm, Fighting, Physical, 100, 16, 90, 0, 6.25, "100% Chance To Debuff Speed 1 Stage Self"
+Pluck, Flying, Physical, 60, 32, 100, 0, 6.25, None
+U-turn, Bug, Physical, 70, 32, 100, 0, 6.25, "Swap Self"
+Close Combat, Fighting, Physical, 120, 8, 100, 0, 6.25, "100% Chance To Debuff Def 1 Stage; Debuff SpDef 1 Stage Self"
+Flare Blitz, Fire, Physical, 120, 24, 100, 0, 6.25, "10% Chance To Burn Opponent :: Recoil 33.33% Damage Self"
+Force Palm, Fighting, Physical, 60, 16, 100, 0, 6.25, "30% Chance To Paralysis Opponent"
+Aura Sphere, Fighting, Special, 80, 32, 999, 0, 6.25, None
+Rock Polish, Rock, Status, 0, 32, 999, 0, 0, "100% Chance To Buff Speed 2 Stages Self"
+Poison Jab, Poison, Physical, 80, 32, 100, 0, 6.25, "30% Chance To Poison Opponent"
+Dark Pulse, Dark, Special, 80, 24, 100, 0, 6.25, "20% Chance To Flinch Opponent"
+Night Slash, Dark, Physical, 70, 24, 100, 0, 12.5, None
+Aqua Tail, Water, Physical, 90, 16, 90, 0, 6.25, None
+Seed Bomb, Grass, Physical, 80, 24, 100, 0, 6.25, None
+Air Slash, Flying, Special, 75, 24, 95, 0, 6.25, "30% Chance To Flinch Opponent"
+X-Scissor, Bug, Physical, 80, 24, 100, 0, 6.25, None
+Bug Buzz, Bug, Special, 90, 16, 100, 0, 6.25, "10% Chance To Debuff SpDef 1 Stage Opponent"
+Dragon Pulse, Dragon, Special, 85, 16, 100, 0, 6.25, None
+Dragon Rush, Dragon, Physical, 100, 16, 75, 0, 6.25, "20% Chance To Flinch Opponent"
+Power Gem, Rock, Special, 80, 32, 100, 0, 6.25, None
+Drain Punch, Fighting, Physical, 75, 16, 100, 0, 6.25, "Heal 50% Damage Self"
+Vacuum Wave, Fighting, Physical, 40, 48, 100, 1, 6.25, None
+Focus Blast, Fighting, Special, 120, 8, 70, 0, 6.25, "10% Chance To Debuff SpDef 1 Stage Opponent"
+Energy Ball, Grass, Special, 90, 16, 100, 0, 6.25, "10% Chance To Debuff SpDef 1 Stage Opponent"
+Brave Bird, Flying, Physical, 120, 24, 100, 0, 6.25, "Recoil 33.33% Damage Self"
+Earth Power, Ground, Special, 90, 16, 100, 0, 6.25, "10% Chance To Debuff SpDef 1 Stage Opponent"
+Nasty Plot, Dark, Status, 0, 32, 999, 0, 0, "100% Chance To Buff SpAtk 2 Stages Self"
+Bullet Punch, Steel, Physical, 40, 48, 100, 1, 6.25, None
+Ice Shard, Ice, Physical, 40, 48, 100, 1, 6.25, None
+Shadow Claw, Ghost, Physical, 70, 24, 100, 0, 12.5, None
+Thunder Fang, Electric, Physical, 65, 24, 95, 0, 6.25, "10% Chance To Paralysis Opponent :: 10% Chance To Flinch Opponent"
+Ice Fang, Ice, Physical, 65, 24, 95, 0, 6.25, "10% Chance To Freeze Opponent :: 10% Chance To Flinch Opponent"
+Fire Fang, Fire, Physical, 65, 24, 95, 0, 6.25, "10% Chance To Burn Opponent :: 10% Chance To Flinch Opponent"
+Shadow Sneak, Ghost, Physical, 40, 48, 100, 1, 6.25, None
+Mud Bomb, Ground, Special, 65, 16, 85, 0, 6.25, "30% Chance To Debuff Accuracy 1 Stage Opponent"
+Psycho Cut, Psychic, Physical, 70, 32, 100, 0, 12.5, None
+Zen Headbutt, Psychic, Physical, 80, 24, 90, 0, 6.25, "20% Chance To Flinch Opponent"
+Mirror Shot, Steel, Special, 65, 16, 85, 0, 6.25, "30% Chance To Debuff Accuracy 1 Stage Opponent"
+Flash Cannon, Steel, Special, 80, 16, 100, 0, 6.25, "10% Chance To Debuff SpDef 1 Stage Opponent"
+Rock Climb, Normal, Physical, 90, 32, 85, 0, 6.25, "20% Chance To Confusion Opponent"
+Defog, Flying, Status, 0, 24, 999, 0, 0, "100% Chance To Debuff Evasion 1 Stage Opponent"
+Draco Meteor, Dragon, Special, 130, 8, 90, 0, 6.25, "100% Chance To Debuff SpAtk 2 Stages Self"
+Discharge, Electric, Special, 80, 24, 100, 0, 6.25, "30% Chance To Paralysis Opponent"
+Lava Plume, Fire, Special, 80, 24, 100, 0, 6.25, "30% Chance To Burn Opponent"
+Leaf Storm, Grass, Special, 130, 8, 90, 0, 6.25, "100% Chance To Debuff SpAtk 2 Stages Self"
+Power Whip, Grass, Physical, 120, 16, 85, 0, 6.25, None
+Cross Poison, Poison, Physical, 70, 32, 100, 0, 12.5, "10% Chance To Poison Opponent"
+Gunk Shot, Poison, Physical, 120, 8, 80, 0, 6.25, "30% Chance To Poison Opponent"
+Iron Head, Steel, Physical, 80, 24, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Magnet Bomb, Steel, Physical, 60, 32, 999, 0, 6.25, None
+Stone Edge, Rock, Physical, 100, 8, 80, 0, 12.5, None
+Bug Bite, Bug, Physical, 60, 32, 100, 0, 6.25, None
+Charge Beam, Electric, Special, 50, 16, 90, 0, 6.25, "70% Chance To Buff SpAtk 1 Stage Self"
+Wood Hammer, Grass, Physical, 120, 24, 100, 0, 6.25, "Recoil 33.33% Damage Self"
+Aqua Jet, Water, Physical, 40, 32, 100, 1, 6.25, None
+Attack Order, Bug, Physical, 90, 24, 100, 0, 12.5, None
+Defend Order, Bug, Status, 0, 16, 999, 0, 0, "100% Chance To Buff Def 1 Stage; Buff SpDef 1 Stage Self"
+Heal Order, Bug, Status, 0, 16, 999, 0, 0, "Heal 50% Health Self"
+Head Smash, Rock, Physical, 150, 8, 80, 0, 6.25, "Recoil 50% Damage Self"
+Spacial Rend, Dragon, Special, 100, 8, 95, 0, 12.5, None
+Seed Flare, Grass, Special, 120, 8, 85, 0, 6.25, "40% Chance To Debuff SpDef 2 Stages Opponent"
+Ominous Wind, Ghost, Special, 60, 8, 100, 0, 6.25, "10% Chance To Buff Atk 1 Stage; Buff Def 1 Stage; Buff SpAtk 1 Stage; Buff SpDef 1 Stage; Buff Speed 1 Stage Self"
+Hone Claws, Dark, Status, 0, 24, 999, 0, 0, "100% Chance To Buff Atk 1 Stage; Buff Accuracy 1 Stage Self"
+Storm Throw, Fighting, Physical, 60, 16, 100, 0, 100, None
+Flame Burst, Fire, Special, 70, 24, 100, 0, 6.25, None
+Sludge Wave, Poison, Special, 95, 16, 100, 0, 6.25, "10% Chance To Poison Opponent"
+Quiver Dance, Bug, Status, 0, 32, 999, 0, 0, "100% Chance To Buff SpAtk 1 Stage; Buff SpDef 1 Stage; Buff Speed 1 Stage Self"
+Flame Charge, Fire, Physical, 50, 32, 100, 0, 6.25, "100% Chance To Buff Speed 1 Stage Self"
+Coil, Poison, Status, 0, 32, 999, 0, 0, "100% Chance To Buff Atk 1 Stage; Buff Def 1 Stage; Buff Accuracy 1 Stage Self"
+Low Sweep, Fighting, Physical, 65, 32, 100, 0, 6.25, "100% Chance To Debuff Speed 1 Stage Opponent"
+Acid Spray, Poison, Special, 40, 32, 100, 0, 6.25, "100% Chance To Debuff SpDef 2 Stages Opponent"
+Scald, Water, Special, 80, 24, 100, 0, 6.25, "30% Chance To Burn Opponent"
+Shell Smash, Normal, Status, 0, 24, 999, 0, 0, "100% Chance To Debuff Def 1 Stage; Debuff SpDef 1 Stage; Buff Atk 2 Stages; Buff SpAtk 2 Stages; Buff Speed 2 Stages Self"
+Shift Gear, Steel, Status, 0, 16, 999, 0, 0, "100% Chance To Buff Speed 2 Stages; Buff Atk 1 Stage Self"
+Circle Throw, Fighting, Physical, 60, 16, 90, -6, 6.25, "Swap Opponent"
+Incinerate, Fire, Special, 60, 24, 100, 0, 6.25, None
+Inferno, Fire, Special, 100, 8, 50, 0, 6.25, "100% Chance To Burn Opponent"
+Water Pledge, Water, Special, 80, 16, 100, 0, 6.25, None
+Fire Pledge, Fire, Special, 80, 16, 100, 0, 6.25, None
+Grass Pledge, Grass, Special, 80, 16, 100, 0, 6.25, None
+Volt Switch, Electric, Special, 70, 32, 100, 0, 6.25, "Swap Self"
+Struggle Bug, Bug, Special, 50, 32, 100, 0, 6.25, "100% Chance To Debuff SpAtk 1 Stage Opponent"
+Bulldoze, Ground, Physical, 60, 32, 100, 0, 6.25, "100% Chance To Debuff Speed 1 Stage Opponent"
+Frost Breath, Ice, Special, 60, 16, 90, 0, 100, None
+Dragon Tail, Dragon, Physical, 60, 16, 90, -6, 6.25, "Swap Opponent"
+Work Up, Normal, Status, 0, 48, 999, 0, 0, "100% Chance To Buff Atk 1 Stage; Buff SpAtk 1 Stage Self"
+Electroweb, Electric, Special, 55, 24, 95, 0, 6.25, "100% Chance To Debuff Speed 1 Stage Opponent"
+Wild Charge, Electric, Physical, 90, 24, 100, 0, 6.25, "Recoil 25% Damage Self"
+Drill Run, Ground, Physical, 80, 16, 95, 0, 12.5, None
+Heart Stamp, Psychic, Physical, 60, 40, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Horn Leech, Grass, Physical, 75, 16, 100, 0, 6.25, "Heal 50% Damage Self"
+Razor Shell, Water, Physical, 75, 16, 95, 0, 6.25, "50% Chance To Debuff Def 1 Stage Opponent"
+Leaf Tornado, Grass, Special, 90, 16, 90, 0, 6.25, "50% Chance To Debuff Accuracy 1 Stage Opponent"
+Steamroller, Bug, Physical, 65, 32, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Cotton Guard, Grass, Status, 0, 16, 999, 0, 0, "100% Chance To Buff Def 3 Stages Self"
+Night Daze, Dark, Special, 85, 16, 95, 0, 6.25, "40% Chance To Debuff Accuracy 1 Stage Opponent"
+Hurricane, Flying, Special, 110, 16, 70, 0, 6.25, "30% Chance To Confusion Opponent"
+Head Charge, Normal, Physical, 120, 24, 100, 0, 6.25, "Recoil 25% Damage Self"
+Searing Shot, Fire, Special, 100, 8, 100, 0, 6.25, "30% Chance To Burn Opponent"
+Glaciate, Ice, Special, 65, 16, 95, 0, 6.25, "100% Chance To Debuff Def 1 Stage Opponent"
+Bolt Strike, Electric, Physical, 130, 8, 85, 0, 6.25, "20% Chance To Paralysis Opponent"
+Blue Flare, Fire, Special, 130, 8, 85, 0, 6.25, "20% Chance To Burn Opponent"
+Fiery Dance, Fire, Special, 80, 16, 100, 0, 6.25, "50% Chance To Buff SpAtk 1 Stage Self"
+Snarl, Dark, Special, 55, 24, 95, 0, 6.25, "50% Chance To Debuff SpAtk 1 Stage Opponent"
+Icicle Crash, Ice, Physical, 85, 16, 90, 0, 6.25, "30% Chance To Flinch Opponent"
+V-create, Fire, Physical, 180, 8, 95, 0, 6.25, "100% Chance To Debuff Def 1 Stage; Debuff SpDef 1 Stage; Debuff Speed 1 Stage Self"
+Noble Roar, Normal, Status, 0, 48, 999, 0, 0, "100% Chance To Debuff Atk 1 Stage; Debuff SpAtk 1 Stage Opponent"
+Petal Blizzard, Grass, Physical, 90, 24, 100, 0, 6.25, None
+Draining Kiss, Fairy, Special, 50, 16, 100, 0, 6.25, "Heal 75% Health Self"
+Play Rough, Fairy, Physical, 90, 16, 90, 0, 6.25, "10% Chance To Debuff Atk 1 Stage Opponent"
+Fairy Wind, Fairy, Special, 40, 48, 100, 0, 6.25, None
+Moonblast, Fairy, Special, 95, 24, 100, 0, 6.25, "30% Chance To Debuff SpAtk 1 Stage Opponent"
+Boomburst, Normal, Special, 140, 16, 100, 0, 6.25, None
+Play Nice, Normal, Status, 0, 32, 999, 0, 0, "100% Chance To Debuff Atk 1 Stage Opponent"
+Confide, Normal, Status, 0, 32, 999, 0, 0, "100% Chance To Debuff SpAtk 1 Stage Opponent"
+Diamond Storm, Rock, Physical, 100, 8, 95, 0, 6.25, "50% Chance To Buff Def 1 Stage Self"
+Steam Eruption, Water, Special, 110, 8, 95, 0, 6.25, "30% Chance To Burn Opponent"
+Mystic Fire, Fire, Special, 75, 16, 100, 0, 6.25, "100% Chance To Debuff SpAtk 1 Stage Opponent"
+Eerie Impulse, Electric, Status, 0, 24, 100, 0, 0, "100% Chance To Debuff SpAtk 2 Stages Opponent"
+Dazzling Gleam, Fairy, Special, 80, 16, 100, 0, 6.25, None
+Baby-Doll Eyes, Fairy, Status, 0, 48, 100, 1, 0, "100% Chance To Debuff Atk 1 Stage Opponent"
+Nuzzle, Electric, Physical, 20, 32, 100, 0, 0, "100% Chance To Paralysis Opponent"
+Power-Up Punch, Fighting, Physical, 40, 32, 100, 0, 0, "100% Chance To Buff Atk 1 Stage Self"
+Land's Wrath, Ground, Physical, 90, 16, 100, 0, 6.25, None
+Origin Pulse, Water, Special, 110, 16, 85, 0, 6.25, None
+Precipice Blades, Ground, Physical, 120, 16, 85, 0, 6.25, None
+Dragon Ascent, Flying, Physical, 120, 8, 100, 0, 6.25, "100% Chance To Debuff Def 1 Stage; Debuff SpDef 1 Stage Self"
+Ice Hammer, Ice, Physical, 100, 16, 90, 0, 6.25, "100% Chance To Debuff Speed 1 Stage Self"
+High Horsepower, Ground, Physical, 95, 16, 95, 0, 6.25, None
+Leafage, Grass, Physical, 40, 64, 100, 0, 6.25, None
+Toxic Thread, Poison, Status, 0, 32, 100, 0, 0, "100% Chance To Debuff Speed 1 Stage Opponent :: 100% Chance To Poison Opponent"
+Lunge, Bug, Physical, 80, 24, 100, 0, 6.25, "100% Chance To Debuff Atk 1 Stage Opponent"
+Fire Lash, Fire, Physical, 80, 24, 100, 0, 6.25, "100% Chance To Debuff Def 1 Stage Opponent"
+Core Enforcer, Dragon, Special, 100, 16, 100, 0, 6.25, None
+Revelation Dance (Electric), Electric, Special, 90, 24, 100, 0, 6.25, None
+Revelation Dance (Fire), Fire, Special, 90, 24, 100, 0, 6.25, None
+Revelation Dance (Ghost), Ghost, Special, 90, 24, 100, 0, 6.25, None
+Revelation Dance (Psychic), Psychic, Special, 90, 24, 100, 0, 6.25, None
+Trop Kick, Grass, Physical, 70, 24, 100, 0, 6.25, "100% Chance To Debuff Atk 1 Stage Opponent"
+Clanging Scales, Dragon, Special, 110, 8, 100, 0, 6.25, "100% Chance To Debuff Def 1 Stage Self"
+Dragon Hammer, Dragon, Physical, 90, 24, 100, 0, 6.25, None
+Brutal Swing, Dark, Physical, 60, 32, 100, 0, 6.25, None
+Fleur Cannon, Fairy, Special, 130, 8, 90, 0, 6.25, "100% Chance To Debuff SpAtk 2 Stages Self"
+Psychic Fangs, Psychic, Physical, 85, 16, 100, 0, 6.25, None
+Shadow Bone, Ghost, Physical, 85, 16, 100, 0, 6.25, "20% Chance To Debuff Def 1 Stage Opponent"
+Liquidation, Water, Physical, 85, 16, 100, 0, 6.25, "20% Chance To Debuff Def 1 Stage Opponent"
+Sunsteel Strike, Steel, Physical, 100, 8, 100, 0, 6.25, None
+Moongeist Beam, Ghost, Special, 100, 8, 100, 0, 6.25, None
+Zing Zap, Electric, Physical, 80, 16, 100, 0, 6.25, "30% Chance To Flinch Opponent"
+Mind Blown, Fire, Special, 150, 8, 100, 0, 6.25, "Recoil 50% Damage Self"

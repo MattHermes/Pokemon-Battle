@@ -1,0 +1,251 @@
+001, Bulbasaur, Sleep Powder, Hidden Power (Fire), Sludge Bomb, Leaf Storm
+002, Ivysaur, Toxic, Body Slam, Sludge, Mega Drain
+003, Venusaur, Sludge Bomb, Synthesis, Sweet Scent, Energy Ball
+004, Charmander, Fire Blast, Hidden Power (Grass), Dragon Pulse, Ancient Power
+005, Charmeleon, Fire Fang, Hone Claws, Dragon Claw, Power-Up Punch
+006, Charizard, Flamethrower, Focus Blast, Dragon Rush, Air Slash
+007, Squirtle, Hydro Pump, Blizzard, Aura Sphere, Surf
+008, Wartortle, Aqua Jet, Ice Punch, Rock Tomb, Headbutt
+009, Blastoise, Scald, Ice Beam, Dark Pulse, Body Slam
+010, Caterpie, Bug Bite, Electroweb, String Shot, Tackle
+011, Metapod, Tackle, Iron Defense, Electroweb, String Shot
+012, Butterfree, Quiver Dance, Bug Buzz, Whirlwind, Air Slash
+013, Weedle, Bug Bite, Electroweb, Poison Sting, String Shot
+014, Kakuna, Bug Bite, Iron Defense, Poison Sting, String Shot
+015, Beedrill, Poison Jab, Drill Run, X-Scissor, Swords Dance
+016, Pidgey, Air Slash, Quick Attack, Heat Wave, Hurricane
+017, Pidgeotto, U-turn, Double Team, Brave Bird, Quick Attack
+018, Pidgeot, Hurricane, Heat Wave, Twister, Sand Attack
+019, Rattata, Crunch, Flame Wheel, Quick Attack, Hyper Fang
+020, Raticate, Swords Dance, Quick Attack, Bite, Body Slam
+021, Spearow, Brave Bird, Quick Attack, U-turn, Agility
+022, Fearow, Drill Peck, Quick Attack, Drill Run, Heat Wave
+023, Ekans, Gunk Shot, Earthquake, Coil, Crunch
+024, Arbok, Poison Jab, Bite, Mud Bomb, Aqua Tail
+025, Pikachu, Thunder, Volt Tackle, Nasty Plot, Surf
+026, Raichu, Volt Switch, Quick Attack, Thunderbolt, Hidden Power (Ice)
+027, Sandshrew, Earthquake, Hone Claws, Dynamic Punch, Metal Claw
+028, Sandslash, Earthquake, Crush Claw, Rock Tomb, Sand Attack
+029, Nidoran-F, Thunder, Body Slam, Blizzard, Sludge Bomb
+030, Nidorina, Toxic, Bubble Beam, Poison Fang, Crunch
+031, Nidoqueen, Earth Power, Ice Beam, Flamethrower, Focus Blast
+032, Nidoran-M, Drill Run, Poison Jab, Horn Attack, Hone Claws
+033, Nidorino, Poison Tail, Toxic, Iron Tail, Horn Drill
+034, Nidoking, Earthquake, Fire Punch, Poison Jab, Stone Edge
+035, Clefairy, Moonblast, Blizzard, Hyper Voice, Moonlight
+036, Clefable, Dazzling Gleam, Thunderbolt, Toxic, Focus Blast
+037, Vulpix, Fire Blast, Energy Ball, Hypnosis, Dark Pulse
+038, Ninetales, Heat Wave, Will-O-Wisp, Roar, Energy Ball
+039, Jigglypuff, Dazzling Gleam, Fire Blast, Thunder, Sing
+040, Wigglytuff, Hyper Voice, Dazzling Gleam, Flamethrower, Charge Beam
+041, Zubat, Toxic, Wing Attack, Feint Attack, Leech Life
+042, Golbat, Sludge Bomb, Whirlwind, Air Cutter, Toxic
+043, Oddish, Sleep Powder, Sludge Bomb, Moonblast, Energy Ball
+044, Gloom, Giga Drain, Stun Spore, Dazzling Gleam, Toxic
+045, Vileplume, Absorb, Body Slam, Swords Dance, Sweet Scent
+046, Paras, Energy Ball, Psybeam, X-Scissor, Stun Spore
+047, Parasect, Spore, Bug Bite, Absorb, Seed Bomb
+048, Venonat, Signal Beam, Psychic, Sludge Bomb, Toxic
+049, Venomoth, Quiver Dance, Psybeam, Bug Buzz, Energy Ball
+050, Diglett, Earthquake, Shadow Claw, Body Slam, Slash
+051, Dugtrio, Stone Edge, Mud-Slap, Night Slash, Memento
+052, Meowth, Bite, Night Slash, Hone Claws, Slash
+053, Persian, Water Pulse, Hyper Voice, Play Rough, Swagger
+054, Psyduck, Hydro Pump, Blizzard, Psychic, Calm Mind
+055, Golduck, Scald, Zen Headbutt, Ice Beam, Psych Up
+056, Mankey, Close Combat, Bulk Up, Ice Punch, Body Slam
+057, Primeape, Cross Chop, Thunder Punch, Swagger, Stone Edge
+058, Growlithe, Flare Blitz, Crunch, Take Down, Wild Charge
+059, Arcanine, Fire Fang, Extreme Speed, Rock Climb, Roar
+060, Poliwag, Hydro Pump, Ice Beam, Psychic, Amnesia
+061, Poliwhirl, Power-Up Punch, Mud Bomb, Surf, Submission
+062, Poliwrath, Poison Jab, Ice Punch, Waterfall, Circle Throw
+063, Abra, Psychic, Dazzling Gleam, Shadow Ball, Zap Cannon
+064, Kadabra, Psychic, Shadow Ball, Hidden Power (Ground), Calm Mind
+065, Alakazam, Kinesis, Psybeam, Energy Ball, Signal Beam
+066, Machop, Close Combat, Earthquake, Fire Punch, Mega Kick
+067, Machoke, Cross Chop, Bulk Up, Counter, Bullet Punch
+068, Machamp, Superpower, Bullet Punch, Ice Punch, Bulldoze
+069, Bellsprout, Growth, Energy Ball, Sludge Bomb, Hidden Power (Fire)
+070, Weepinbell, Synthesis, Poison Jab, Sleep Powder, Power Whip
+071, Victreebel, Leaf Tornado, Leech Life, Body Slam, Poison Powder
+072, Tentacool, Hydro Pump, Sludge Wave, Blizzard, Dazzling Gleam
+073, Tentacruel, Scald, Sludge Bomb, Mirror Coat, Toxic
+074, Geodude, Earthquake, Stone Edge, Superpower, Double-Edge
+075, Graveler, Take Down, Explosion, Fissure, Rock Slide
+076, Golem, Thunder Punch, Bulldoze, Rock Tomb, Power-Up Punch
+077, Ponyta, Flare Blitz, Stomp, High Horsepower, Wild Charge
+078, Rapidash, Will-O-Wisp, Double Team, Flamethrower, Drill Run
+079, Slowpoke, Calm Mind, Psychic, Scald, Fire Blast
+080, Slowbro, Thunder Wave, Surf, Psychic, Slack Off
+081, Magnemite, Thunderbolt, Flash Cannon, Zap Cannon, Signal Beam
+082, Magneton, Discharge, Hidden Power (Fire), Mirror Shot, Charge Beam
+083, Farfetch'd, Leaf Blade, Swords Dance, Quick Attack, Brave Bird
+084, Doduo, Quick Attack, Drill Peck, Steel Wing, Agility
+085, Dodrio, Swords Dance, Quick Attack, Drill Peck, Double Team
+086, Seel, Blizzard, Surf, Toxic, Ice Shard
+087, Dewgong, Ice Beam, Water Pulse, Body Slam, Aqua Jet
+088, Grimer, Gunk Shot, Shadow Sneak, Minimize, Power-Up Punch
+089, Muk, Poison Jab, Acid Armor, Ice Punch, Memento
+090, Shellder, Ice Shard, Shell Smash, Hydro Pump, Hidden Power (Grass)
+091, Cloyster, Liquidation, Icicle Crash, Ice Shard, Hidden Power (Grass)
+092, Gastly, Shadow Ball, Will-O-Wisp, Thunder, Energy Ball
+093, Haunter, Sludge Wave, Thunderbolt, Shadow Ball, Hidden Power (Ground)
+094, Gengar, Focus Blast, Poison Jab, Thunderbolt, Shadow Punch
+095, Onix, Earthquake, Stone Edge, Brutal Swing, Iron Tail
+096, Drowzee, Flash, Psycho Cut, Headbutt, Thunder Punch
+097, Hypno, Hypnosis, Psych Up, Ice Punch, Zen Headbutt
+098, Krabby, Crabhammer, Swords Dance, Agility, Superpower
+099, Kingler, Crabhammer, X-Scissor, Guillotine, Agility
+100, Voltorb, Thunder, Hidden Power (Fire), Self-Destruct, Charge Beam
+101, Electrode, Discharge, Thunder Wave, Hidden Power (Ice), Mirror Coat
+102, Exeggcute, Leaf Storm, Psychic, Hidden Power (Fire), Synthesis
+103, Exeggutor, Energy Ball, Extrasensory, Hypnosis, Hidden Power (Ice)
+104, Cubone, Earthquake, Fire Punch, Thunder Punch, Take Down
+105, Marowak, Fissure, Stone Edge, Blizzard, Headbutt
+106, Hitmonlee, Blaze Kick, Mega Kick, Rolling Kick, Bulk Up
+107, Hitmonchan, Mach Punch, Ice Punch, Drain Punch, Thunder Punch
+108, Lickitung, Lick, Body Slam, Aqua Tail, Earthquake
+109, Koffing, Explosion, Sludge Bomb, Fire Blast, Thunder
+110, Weezing, Sludge Wave, Smokescreen, Flamethrower, Will-O-Wisp
+111, Rhyhorn, Stone Edge, Earthquake, Megahorn, Horn Drill
+112, Rhydon, Bulldoze, Horn Attack, Rock Slide, Rock Polish
+113, Chansey, Toxic, Soft-Boiled, Minimize, Flamethrower
+114, Tangela, Mega Drain, Sleep Powder, Ancient Power, Sludge Bomb
+115, Kangaskhan, Ice Punch, Crunch, Body Slam, Drain Punch
+116, Horsea, Hydro Pump, Blizzard, Hidden Power (Ground), Flash Cannon
+117, Seadra, Agility, Octazooka, Hidden Power (Grass), Ice Beam
+118, Goldeen, Aqua Tail, Drill Run, Megahorn, Horn Drill
+119, Seaking, Horn Attack, Waterfall, Drill Run, Poison Jab
+120, Staryu, Hydro Pump, Thunder, Blizzard, Minimize
+121, Starmie, Scald, Psychic, Thunderbolt, Flash
+122, Mr. Mime, Psychic, Dazzling Gleam, Focus Blast, Calm Mind
+123, Scyther, Swords Dance, X-Scissor, Slash, Aerial Ace
+124, Jynx, Ice Beam, Psychic, Draining Kiss, Lovely Kiss
+125, Electabuzz, Thunderbolt, Focus Blast, Hidden Power (Ice), Signal Beam
+126, Magmar, Fire Blast, Smokescreen, Hidden Power (Grass), Mach Punch
+127, Pinsir, Guillotine, X-Scissor, Earthquake, Quick Attack
+128, Tauros, Stomp, Earthquake, Double-Edge, Iron Head
+129, Magikarp, Splash, Tackle, None, None
+130, Gyarados, Ice Fang, Waterfall, Crunch, Stone Edge
+131, Lapras, Hydro Pump, Thunderbolt, Ice Beam, Sheer Cold
+132, Ditto, Transform, None, None, None
+133, Eevee, Quick Attack, Iron Tail, Shadow Ball, Hidden Power (Ice)
+134, Vaporean, Scald, Ice Beam, Hidden Power (Grass), Toxic
+135, Jolteon, Thunderbolt, Hidden Power (Ice), Signal Beam, Volt Switch
+136, Flareon, Flare Blitz, Toxic, Superpower, Quick Attack
+137, Porygon, Blizzard, Shadow Ball, Tri Attack, Thunder
+138, Omanyte, Shell Smash, Hydro Pump, Earth Power, Hidden Power (Electric)
+139, Omastar, Surf, Hidden Power (Grass), Ice Beam, Shell Smash
+140, Kabuto, Aqua Jet, Rock Polish, Body Slam, Surf
+141, Kabutops, Aqua Jet, Stone Edge, Swords Dance, Brick Break
+142, Aerodactyl, Stone Edge, Earthquake, Iron Head, Dragon Claw
+143, Snorlax, Body Slam, Earthquake, Crunch, Counter
+144, Articuno, Ice Beam, Hurricane, Hidden Power (Ground), Ancient Power
+145, Zapdos, Thunderbolt, Heat Wave, Hidden Power (Ice), Thunder Wave
+146, Moltres, Flamethrower, Hurricane, Hidden Power (Grass), Ancient Power
+147, Dratini, Agility, Extreme Speed, Fire Blast, Draco Meteor
+148, Dragonair, Dragon Rush, Flamethrower, Toxic, Icy Wind
+149, Dragonite, Dragon Tail, Fire Punch, Bulldoze, Extreme Speed
+150, Mewtwo, Psychic, Thunderbolt, Incinerate, Water Pulse
+151, Mew, Psychic, Aura Sphere, Nasty Plot, Fire Blast
+152, Chikorita, Leaf Storm, Body Slam, Hidden Power (Electric), Synthesis
+153, Bayleef, Energy Ball, Hidden Power (Fire), Toxic, Giga Drain
+154, Meganium, Seed Bomb, Body Slam, Swords Dance, Dragon Tail
+155, Cyndaquil, Overheat, Hidden Power (Ice), Extrasensory, Body Slam
+156, Quilava, Flamethrower, Brick Break, Quick Attack, Hidden Power (Grass)
+157, Typhlosion, Fire Punch, Brick Break, Body Slam, Earthquake
+158, Totodile, Aqua Tail, Dragon Claw, Dragon Dance, Ice Punch
+159, Croconaw, Waterfall, Double-Edge, Hone Claws, Ice Fang
+160, Feraligatr, Aqua Jet, Dragon Tail, Liquidation, Power-Up Punch
+161, Sentret, Hidden Power (Fighting), Flamethrower, Ice Beam, Shadow Ball
+162, Furret, Fire Punch, Hone Claws, Ice Punch, Double-Edge
+163, Hoothoot, Air Slash, Extrasensory, Hidden Power (Grass), Heat Wave
+164, Noctowl, Defog, Hurricane, Psychic, Moonblast
+165, Ledyba, Bug Buzz, Air Slash, U-turn, Headbutt
+166, Ledian, Focus Blast, Giga Drain, Mach Punch, Hidden Power (Fire)
+167, Spinarak, Megahorn, Body Slam, Poison Jab, Shadow Sneak
+168, Ariados, Leech Life, Toxic, Night Slash, Sludge Bomb
+169, Crobat, Wing Attack, X-Scissor, Zen Headbutt, Astonish
+170, Chinchou, Thunder, Hydro Pump, Blizzard, Dazzling Gleam
+171, Lanturn, Scald, Discharge, Ice Beam, Agility
+172, Pichu, Volt Tackle, Signal Beam, Hidden Power (Fighting), Charm
+173, Cleffa, Body Slam, Psychic, Shadow Ball, Hidden Power (Ice)
+174, Igglybuff, Flamethrower, Psychic, Wild Charge, Body Slam
+175, Togepi, Dazzling Gleam, Fire Blast, Psychic, Zap Cannon
+176, Togetic, Extrasensory, Thunder Wave, Flamethrower, Tri Attack
+177, Natu, Calm Mind, Dazzling Gleam, Drill Peck, Heat Wave
+178, Xatu, Air Slash, Defog, Psychic, Giga Drain
+179, Mareep, Zap Cannon, Power Gem, Signal Beam, Thunder Wave
+180, Flaafy, Thunderbolt, Fire Punch, Cotton Guard, Body Slam
+181, Ampharos, Dragon Pulse, Discharge, Hidden Power (Grass), Toxic
+182, Bellossom, Leaf Blade, Hidden Power (Electric), Moonlight, Moonblast
+183, Marill, Aqua Tail, Play Rough, Superpower, Double-Edge
+184, Azumarill, Waterfall, Play Rough, Aqua Jet, Double-Edge
+185, Sudowoodo, Head Smash, Wood Hammer, Rock Polish, Hammer Arm
+186, Politoed, Scald, Toxic, Focus Blast, Hidden Power (Fire)
+187, Hoppip, Dazzling Gleam, Giga Drain, U-turn, Sleep Powder
+188, Skiploom, Cotton Guard, Energy Ball, Sleep Powder, Synthesis
+189, Jumpluff, Aerial Ace, Double Team, Toxic, Seed Bomb
+190, Aipom, Brick Break, Gunk Shot, Body Slam, Seed Bomb
+191, Sunkern, Earth Power, Energy Ball, Sludge Bomb, Synthesis
+192, Sunflora, Leaf Storm, Double-Edge, Toxic, Hidden Power (Ice)
+193, Yanma, Air Slash, U-turn, Psychic, Quick Attack
+194, Wooper, Aqua Tail, Ice Beam, Power-Up Punch, Sludge Wave
+195, Quagsire, Waterfall, Sludge Bomb, Hidden Power (Grass), Ice Punch
+196, Espeon, Psychic, Hyper Voice, Signal Beam, Shadow Ball
+197, Umbreon, Dark Pulse, Moonlight, Double Team, Toxic
+198, Murkrow, Brave Bird, Dark Pulse, Thunder Wave, Whirlwind
+199, Slowking, Ice Beam, Nasty Plot, Power Gem, Flamethrower
+200, Misdreavus, Toxic, Thunderbolt, Dazzling Gleam, Shadow Ball
+201, Unown, Hidden Power (Ice), None, None, None
+202, Wobboffet, Mirror Coat, Counter, None, None
+203, Girafarig, Crunch, Hyper Voice, Zen Headbutt, Psychic Fangs
+204, Pineco, Earthquake, Explosion, Rock Slide, Toxic
+205, Forretress, Drill Run, Self-Destruct, Body Slam, Rock Slide
+206, Dunsparce, Coil, Earthquake, Body Slam, Glare
+207, Gligar, Earthquake, Poison Jab, Night Slash, Stone Edge
+208, Steelix, Earthquake, Iron Head, Ice Fang, Rock Polish
+209, Snubbull, Dazzling Gleam, Fire Blast, Thunder, Hidden Power (Fighting)
+210, Granbull, Play Rough, Rock Slide, Ice Fang, Body Slam
+211, Qwilfish, Liquidation, Poison Jab, Swords Dance, Aqua Jet
+212, Scizor, U-turn, Bullet Punch, Iron Head, Night Slash
+213, Shuckle, Shell Smash, Rock Slide, Earthquake, Body Slam
+214, Heracross, Close Combat, Megahorn, Stone Edge, Swords Dance
+215, Sneasel, Ice Punch, Ice Shard, X-Scissor, Poison Jab
+216, Teddiursa, Double-Edge, Fire Punch, Close Combat, Gunk Shot
+217, Ursaring, Body Slam, Cross Chop, Play Rough, Night Slash
+218, Slugma, Fire Blast, Memento, Rock Slide, Recover
+219, Magcargo, Lava Plume, Self-Destruct, Shell Smash, Rock Tomb
+220, Swinub, Earthquake, Icicle Crash, Rock Slide, Double-Edge
+221, Piloswine, Ice Fang, Ice Shard, Stone Edge, Superpower
+222, Corsola, Scald, Ice Beam, Earth Power, Head Smash
+223, Remoraid, Fire Blast, Hydro Pump, Gunk Shot, Ice Beam
+224, Octillery, Octazooka, Psybeam, Sludge Bomb, Energy Ball
+225, Delibird, Drill Peck, Ice Punch, Power-Up Punch, Defog
+226, Mantine, Air Slash, Surf, Agility, Toxic
+227, Skarmory, Brave Bird, Iron Head, Night Slash, Whirlwind
+228, Houndour, Dark Pulse, Fire Blast, Hyper Voice, Hidden Power (Ice)
+229, Houndoom, Bite, Fire Fang, Roar, Thunder Fang
+230, Kingdra, Dragon Breath, Scald, Signal Beam, Hidden Power (Fighting)
+231, Phanpy, Head Smash, Earthquake, Gunk Shot, Ice Shard
+232, Donphan, Rock Slide, Poison Jab, Play Rough, Roar
+233, Porygon2, Tri Attack, Discharge, Psybeam, Thunder Wave
+234, Stantler, Extrasensory, Megahorn, Double-Edge, Energy Ball
+235, Smeargle, Flamethrower, Spore, Aura Sphere, Clanging Scales
+236, Tyrogue, Brick Break, Bullet Punch, Bulk Up, Body Slam
+237, Hitmontop, Mach Punch, Close Combat, Drill Run, Bulk Up
+238, Smoochum, Psychic, Blizzard, Shadow Ball, Signal Beam
+239, Elekid, Cross Chop, Thunder Punch, Ice Punch, Volt Switch
+240, Magby, Overheat, Psychic, Thunder Punch, Toxic
+241, Miltank, Milk Drink, Zen Headbutt, Rock Slide, Body Slam
+242, Blissey, Soft-Boiled, Toxic, Flamethrower, Calm Mind
+243, Raikou, Aura Sphere, Discharge, Bite, Volt Switch
+244, Entei, Sacred Fire, Iron Head, Extreme Speed, Body Slam
+245, Suicune, Ice Beam, Scald, Hidden Power (Grass), Shadow Ball
+246, Larvitar, Earthquake, Stone Edge, Superpower, Rock Polish
+247, Pupitar, Rock Slide, Earth Power, Brick Break, Iron Head
+248, Tyranitar, Power-Up Punch, Rock Tomb, Surf, Thunderbolt
+249, Lugia, Aeroblast, Extrasensory, Signal Beam, Thunder Wave
+250, Ho-Oh, Sacred Fire, Aerial Ace, Ancient Power, Dragon Breath
+251, Celebi, Giga Drain, Dazzling Gleam, Ancient Power, Synthesis
