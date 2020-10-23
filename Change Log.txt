@@ -1,0 +1,124 @@
+## Version 1.330
+###Added
+   --New Galarian forms from the Frozen Tundra
+     DLC
+   --New moves:
+     --Freeze-Dry
+	 --Rapid Spin
+	 --Some of the gen 8 moves
+
+## Version 1.320
+###Added
+   --Alolan and Galarian forms of gen 1 and gen 2
+     pokemon
+   --Added the move "Swift"
+
+###Changed
+--Electric type Pokemon can no longer be paralyzed
+
+###Fixed
+--Player 2's pokemon will now have the option to
+  swap when using a move such as U-turn and Volt
+  Switch
+--Geodude's attack stat changed to 196
+
+## Version 1.310
+###Fixed
+--Effects that affect the user will be applied
+  regardless if the opponent has fainted or not
+
+## Version 1.300
+###Changed
+--Can now have multiples of the same pokemon on a team
+--Now displays the damage taken from the following
+  status effects:
+  --Badly Poison
+  --Poison
+  --Burn
+--Now displays the PP of moves in the summary menu
+--Changed stages from (1 to 13) to (-6 to 6) 
+
+###Fixed
+--Made correction to moveList.txt
+--Changed the text that displays when
+  stats are buffed and debuffed
+
+## Version 1.213
+###Fixed
+--B)ack option works for summary menu
+
+## Version 1.212
+###Changed
+--Grass type moves no longer paralyze Grass
+  type pokemon
+
+## Version 1.211
+###Fixed
+--Summary menu no longer crashes the game
+
+##Version 1.210
+###Added
+--Countering moves i.e., Counter and Mirror Coat
+--All of the gen 2 pokemon
+
+###Fixed
+--Corrected spelling of "Lava Plume" in moveList.txt
+--Corrected effect text for "Overheat"
+  --Now debuffs the users Special Attack stat 
+
+##Version 1.200
+
+### Added
+- Inverse battle mode
+- Moves that force swaps e.g., Volt Switch, Whirlwind, Roar, etc.
+
+### Fixed
+- Fixed spelling errors in buff and debuff messages
+
+##Version 1.101
+
+### Fixed
+- Incorrectly displayed "Grass" type pokemon as "Electric"
+   and vice versa
+- Appropriate messages now display when a pokemon tries
+  to inflict the opponent with the same status effect
+- moveList.txt: Fixed effect description for "Swords Dance"  
+- typeChart.txt: Added multiplers for the "Dragon" type
+
+##Version 1.100
+
+### Added
+- Copying moves
+- Healing moves
+- Moves with recoil
+- Sacrificing moves
+
+### Changed
+- Lower case letters work with menus
+- Made Ditto available
+- Player is now asked if they want to play again
+
+### Fixed
+- pokemonGeneralinfo.txt: Changed pokemon #125's name to "Electabuzz"
+- pokemonMovesets.txt: Changed pokemon #125's name to "Electabuzz"
+- pokemonStats.txt: Changed pokemon #125's name to "Electabuzz"
+
+##Version 1.010
+
+### Added
+- One Hit KO (OHKO) Moves
+
+### Changed
+- Changed stats in pokemonStats.txt 
+- Changed movesets of pokemon that can learn OHKO moves
+- Changed Nidoran (Male)'s name to "Nidoran-M"
+- Changed Nidoran (Female)'s name to "Nidoran-F"
+
+### Fixed
+- Fixed logic error when both players use the same name
+- pokemonGeneralinfo.txt: Changed pokemon #112's name to "Rhydon"
+- pokemonMovesets.txt: Changed pokemon #112's name to "Rhydon"
+- pokemonStats.txt: Changed pokemon #112's name to "Rhydon"
+
+##Version 1.000
+--Uploaded game
