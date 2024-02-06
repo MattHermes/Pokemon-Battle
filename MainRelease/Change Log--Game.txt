@@ -1,3 +1,15 @@
+## Version 1.410
+###Changed
+   --Added the "Badly Poison" status back
+   --Reverted changes made to nonvolatile status
+     moves
+	 --Once a pokemon has a nonvolatile status, it
+	   cannot be overridden (e.g., if a pokemon is 
+	   already burned it cannot be poisoned)
+   --Reverted changes made to stat changing moves
+     (e.g., Swords Dance can be used multiple times
+	  to buff attack)
+
 ## Version 1.401
 ###Fixed
    --The check for if a move gets a same type attack bonus
