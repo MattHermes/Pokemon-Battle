@@ -1,6 +1,8 @@
 ##  Version 1.002
 ### Fixed
     --Minor formatting errors in moveList.txt
+    --Bulk Up no longer boosts Special
+	  Attack and Special Defense
 
 ## Version 1.001
 ###Fixed
