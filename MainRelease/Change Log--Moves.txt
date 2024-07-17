@@ -1,3 +1,8 @@
+##  Version 1.003
+### Fixed
+    --Changed critcal hit chance of high-crit
+	  moves to 12.5%
+
 ##  Version 1.002
 ### Fixed
     --Minor formatting errors in moveList.txt
